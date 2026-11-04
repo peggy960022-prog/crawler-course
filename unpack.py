@@ -11,7 +11,7 @@ BOX_TAG = "article"          # 每一筆資料「外盒」的標籤
 BOX_CLASS = "product_pod"    # 外盒的 class 名稱
 TITLE_TAG = "h3"             # 書名所在盒子的標籤（在外盒裡面）
 LINK_TAG = "a"               # 書名連結的標籤（在 h3 裡面）
-TITLE_ATTR = "href"         # 完整書名放在哪個名牌（HTML 屬性）
+TITLE_ATTR = "title"         # 完整書名放在哪個名牌（HTML 屬性）
 PRICE_TAG = "p"              # 價格所在盒子的標籤
 PRICE_CLASS = "price_color"  # 價格盒子的 class
 # ====================================
